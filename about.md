@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is just a blog to capture development progress and thoughts around the [Laminar project](https://github.com/jmdisher/Laminar).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+* [Laminar project](https://github.com/jmdisher/Laminar)
+* [Laminar wiki](https://github.com/jmdisher/Laminar/wiki)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+No public contact information yet.
