@@ -59,3 +59,5 @@ This approach isn't perfect since many failed mutations will be sent and replica
 ## Possible Comment Idea
 
 Something which is an obvious blind spot of using this as a blog is that there is no real comment or feedback system.  I was thinking I might start opening issues and connecting them to posts in order to provide a simple mechanism for this.  It will be a little manual, and not exactly ideal, but it would work and allow for feedback.
+
+[Comments and Discussion](https://github.com/jmdisher/Laminar-blog/issues/10)
