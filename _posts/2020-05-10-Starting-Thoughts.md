@@ -28,3 +28,5 @@ Next points of functionality required:
 * on-disk persistence and node restart from persistent state (as data is currently just stored in an asynchronous in-memory array)
 
 One of the main elements of an event store which will *not* be considered in-scope for this experiment is log compaction.  This means that the data store will always grow without bound.  That said, I do have some thoughts on how this would be done (since programmable topic make this... interesting) which I will probably talk about at some point in the future (shouldn't get ahead of myself, now).
+
+[Comments and Discussion](https://github.com/jmdisher/Laminar-blog/issues/2)
