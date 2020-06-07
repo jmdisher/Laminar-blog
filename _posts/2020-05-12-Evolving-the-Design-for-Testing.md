@@ -24,3 +24,5 @@ The other difficulty in testing is observing intermittent failures in integratio
 So, the good news is that it appears as though these intermittent bugs are resolved since I didn't see anything go wrong after my last few fixes after a similarly long debugging and testing adventure, yesterday.
 
 Next up is my plan to split out upstream and downstream logic management from ClusterManager (to make that easier to test) and work on introducing the real message dialect and topic splitting in order to make a real example.
+
+[Comments and Discussion](https://github.com/jmdisher/Laminar-blog/issues/4)
