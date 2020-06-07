@@ -48,3 +48,5 @@ Before fixating on performance, purely, more work must be done to fully trace ou
 The progress of the project, thus far, is meaning that I need to determine precisely what point is **done** for this experiment.  I want to get this to the point where some kind of paper can be written about what problems it solves and what trade-offs it introduces.  I am not sure exactly what that point looks like (and if something like _unbounded lazy-loading object graphs_ are required).
 
 Still, being to the point where some numbers and patterns can be shown is interesting.
+
+[Comments and Discussion](https://github.com/jmdisher/Laminar-blog/issues/9)
