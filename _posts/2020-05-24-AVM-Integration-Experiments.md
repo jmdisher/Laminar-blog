@@ -24,3 +24,5 @@ A few such features:
 A big optimization which is possible when embedded in Laminar is object graph serialization.  Laminar only needs this for restartability support and potentially some state synchronization, in the future (assuming some aggressive and clever compaction is implemented).  Laminar does need a similar, but much simpler feature:  Revert support.  A failed transaction should have no side-effects within the object graph or its event stream, meaning it isn't as easy as just mutating the objects in memory.  This doesn't even begin to scratch the surface of making this graph of unbounded size, which is also possible in Laminar.
 
 Still, in terms of the basics, the path forward is reasonably clear.  The first priorities are around API and ABI:  They need to be quite different, but the changes should be small.  From there, internals of how AVM works are really more optional changes.
+
+[Comments and Discussion](https://github.com/jmdisher/Laminar-blog/issues/8)
