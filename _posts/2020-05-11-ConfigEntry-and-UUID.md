@@ -40,3 +40,5 @@ This shows another example of the difference between storing state in parameters
 This keeps the system somewhat more _functional_, reducing the cognitive scope which must be considered when looking at any part of the system.  This also, of course, makes testing and other forms of embedding easier since it makes fewer demans of the surrounding environment (it brings what it needs with it).
 
 Personally, I have always favoured moving complexity into the parameters, instead of cluttering a long-lived scope.  I suppose part of me never wanted to leave the old UW lecture halls where Scheme and ML were everywhere.
+
+[Comments and Discussion](https://github.com/jmdisher/Laminar-blog/issues/3)
