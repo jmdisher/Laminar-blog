@@ -24,3 +24,5 @@ The exact way to decompose a large change into a sequence of commits can be tric
 For now, the key thing to remember is that **every commit must build and test clean** (modulo intermittent problems).  Beyond that, each one should represent **one complete idea**.  This second point is less clearly defined and everyone will put their own interpretation in a slightly different place but it is at least the **philosophical goal**.
 
 Also, while you are at it, make sure your commit messages **describe the high-level meaning** of why the change exists.  It is an area where you pretty well can't have too much information.
+
+[Comments and Discussion](https://github.com/jmdisher/Laminar-blog/issues/5)
