@@ -20,3 +20,5 @@ From there, I can proceed with changing the APIs to be a better fit and expose m
 By that point, the scope of the project will be realized and I will just need to build the storage system, find an approach to restartability, and add some more optimizations at the AVM level by removing complexity required for blockchain support.  After that, it is just hardening, testing, and studying.
 
 Those are not small tasks but at least the full scope will allow for rich conversations and considerations of the merits/drawbacks of the approach.
+
+[Comments and Discussion](https://github.com/jmdisher/Laminar-blog/issues/7)
